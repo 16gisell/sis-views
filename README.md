@@ -17,7 +17,7 @@
     ## Rreparacion del entorno
    # Paso1: 
     1	Tener previamnete instalado Nodejs
-    2	Tener clonado repositorio backen url:
+    2	Tener clonado repositorio backen url: https://github.com/16gisell/sis-api
     3   Tener base de dato postgres instalada
     4   Tener entorno Ruby 3.0.0 he instalado Ruby O rails 7, esto debido a que el entorno del back esta basado en este lenguaje
     
