@@ -6,7 +6,7 @@
                 <div class="col-md-6">
                     <div class="copyright">
                         &copy; {{year}}
-                        <p>Modo Prueba billetera</p>
+                        <p>Modo Prueba sisco banck CA</p>
                         <p>Creado por <spam class="text-center" style="color: #d417d4;text-decoration: underline;">GissHernandez</spam> </p>
                     </div>
                 </div>
@@ -19,7 +19,7 @@ export default {
   data() {
     return {
       name:"footer",
-      year: 2022
+      year: 2024
     }
   }
 };
